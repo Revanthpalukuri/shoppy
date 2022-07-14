@@ -618,28 +618,17 @@ margin-top: 160px;
 .product-max-qty{
   margin-top: 10px;
 }
-@media screen and (max-width:900px)
-{
-  .hero-banner-image{
-    width: 77%;
-    height: 62%;
-    top: -2%;
-    right: -6%;
-    height: 55vh;
-    width: 55vh;
-  }
-}
+
+
 @media screen and (max-width:800px) {
   .hero-banner-container{
     height: 560px;
   }
   .hero-banner-image{
     width: 77%;
-    height: 62%;
-    top: -2%;
+    height: 52%;
+    top: 31%;
     right: -6%;
-    height: 45vh;
-    width: 45vh;
   }
   .footer-banner-container{
     height: 560px;
